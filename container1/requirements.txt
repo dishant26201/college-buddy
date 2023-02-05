@@ -1,0 +1,7 @@
+# Reference for requirements.txt template:
+# Source: Lab 3 Panopto recording
+# URL: https://dal.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=201adc2b-2403-4fbd-88e7-af9701384da3
+# Date accessed: February 01, 2023
+
+Flask==2.0.2
+requests==2.28.2

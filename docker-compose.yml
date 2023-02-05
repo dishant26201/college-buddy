@@ -1,0 +1,26 @@
+# References for docker-compose.yml template:
+
+# Source 1: Lab 3 Panopto recording
+# URL: https://dal.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=201adc2b-2403-4fbd-88e7-af9701384da3
+# Date accessed: February 01, 2023
+
+# Source 2: Docker official documentation
+# URL: https://docs.docker.com/compose/compose-file/
+# Date accessed: February 01, 2023
+
+services:
+  container1:
+    image: container1
+    container_name: container1
+    ports: 
+     - '5000:5000'
+    volumes:
+      - ./:/dockerVolume
+
+  container2:
+    image: container2
+    container_name: container2
+    ports: 
+     - '9090:9090'
+    volumes:
+      - ./:/dockerVolume
