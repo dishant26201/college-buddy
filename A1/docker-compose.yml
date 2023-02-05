@@ -10,7 +10,7 @@
 
 services:
   container1:
-    image: container1
+    image: dishantbehera/container1
     container_name: container1
     ports: 
      - '5000:5000'
@@ -18,7 +18,7 @@ services:
       - ./:/dockerVolume
 
   container2:
-    image: container2
+    image: dishantbehera/container2
     container_name: container2
     ports: 
      - '9090:9090'
