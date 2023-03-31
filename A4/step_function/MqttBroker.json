@@ -1,0 +1,68 @@
+{
+    "Comment": "A description of my state machine",
+    "StartAt": "StartPass",
+    "States": {
+      "StartPass": {
+        "Type": "Pass",
+        "Next": "Choice"
+      },
+      "Choice": {
+        "Type": "Choice",
+        "Choices": [
+          {
+            "Variable": "$.type",
+            "StringMatches": "CONNECT",
+            "Next": "SQS Connect"
+          },
+          {
+            "Variable": "$.type",
+            "StringMatches": "SUBSCRIBE",
+            "Next": "SQS Subscribe"
+          },
+          {
+            "Variable": "$.type",
+            "StringMatches": "PUBLISH",
+            "Next": "SQS Publish"
+          }
+        ]
+      },
+      "SQS Connect": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::sqs:sendMessage",
+        "Parameters": {
+          "QueueUrl": "https://sqs.us-east-1.amazonaws.com/917983641996/Connect",
+          "MessageBody": {
+            "type.$": "$.type",
+            "username.$": "$.username",
+            "password.$": "$.password"
+          }
+        },
+        "End": true
+      },
+      "SQS Subscribe": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::sqs:sendMessage",
+        "Parameters": {
+          "QueueUrl": "https://sqs.us-east-1.amazonaws.com/917983641996/Subscribe",
+          "MessageBody": {
+            "type.$": "$.type",
+            "qos.$": "$.qos"
+          }
+        },
+        "End": true
+      },
+      "SQS Publish": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::sqs:sendMessage",
+        "Parameters": {
+          "QueueUrl": "https://sqs.us-east-1.amazonaws.com/917983641996/Publish",
+          "MessageBody": {
+            "type.$": "$.type",
+            "qos.$": "$.qos",
+            "payload.$": "$.payload"
+          }
+        },
+        "End": true
+      }
+    }
+}
