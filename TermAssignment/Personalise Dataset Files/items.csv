@@ -1,0 +1,420 @@
+﻿ITEM_ID,NAME,LOCATION,FLAGSHIP_PROGRAMS,AVG_GRADE_REQUIREMENT,ACCEPTANCE_RATE
+university_1,Harvard University ,Massachusetts,"Arts, Science, Computer science, Law, Medicine",95,4.7
+university_2,Massachusetts Institute of Technology (MIT),Massachusetts,"Engineering, Computer Science, Science",93,6.6
+university_3,Boston University,Massachusetts,"Medicine, Law, Arts, Computer Science, Science",87,18.1
+university_4,Tufts University,Massachusetts,"Medicine, Law, Arts, Computer Science, Engineering",88,14.6
+university_5,Northeastern University,Massachusetts,"Engineering, Computer Science, Science, Arts",86,18.3
+university_6,Boston College,Massachusetts,"Arts, Commerce, Law",86,28.9
+university_7,University of Massachusetts Amherst,Massachusetts,"Science, Engineering, Computer Science, Arts",80,60.1
+university_8,"University of California, Los Angeles (UCLA)",California,"Medicine, Law, Engineering, Computer Science, Science",92,14.3
+university_9,Stanford University,California,"Engineering, Computer Science, Science",93,4.4
+university_10,University of Southern California (USC),California,"Medicine, Law, Engineering, Computer Science, Arts",90,11.4
+university_11,California Institute of Technology (Caltech),California,"Engineering, Computer Science, Science",95,6.4
+university_12,"University of California, Berkeley (UC Berkeley)",California,"Engineering, Computer Science, Science",92,15.1
+university_13,"University of California, San Diego (UCSD)",California,"Medicine, Engineering, Computer Science, Science",90,34.1
+university_14,University of San Francisco (USF),California,"Arts, Law, Commerce",86,62.3
+university_15,University of Texas at Austin,Texas,"Computer Science, Engineering, Commerce, Law",87,31.3
+university_16,Rice University,Texas,"Engineering, Sciences, Arts, Commerce",92,17.5
+university_17,Southern Methodist University,Texas,"Commerce, Engineering, Computer Science, Law, Arts",85,47.8
+university_18,Texas A&M University,Texas,"Engineering, Arts, Commerce, Science",80,67.3
+university_19,Texas Tech University,Texas,"Engineering, Law, Medicine, Commerce, Arts",76,69.7
+university_20,Baylor University,Texas,"Commerce, Law, Arts, Science",89,45.5
+university_21,University of Houston,Texas,"Commerce, Engineering, Science, Law, Arts",79,61.1
+university_22,Ohio State University,Ohio,"Science, Engineering, Computer Science, Medicine, Arts",85,48.2
+university_23,University of Cincinnati,Ohio,"Medicine, Law, Engineering, Arts",80,71.3
+university_24,Case Western Reserve University,Ohio,"Engineering, Science, Medicine, Law, Arts",90,29.4
+university_25,Ohio University,Ohio,"Arts, Engineering, Commerce",70,76.9
+university_26,University of Dayton,Ohio,"Engineering, Commerce, Arts",75,71.2
+university_27,Cleveland State University,Ohio,"Engineering, Commerce, Law, Arts",70,94.1
+university_28,Miami University,Ohio,"Commerce, Engineering, Arts",80,68.8
+university_29,University of Florida,Florida,"Engineering, Medicine, Law, Computer Science, Arts",92,34.5
+university_30,Florida State University,Florida,"Law, Medicine, Arts, Computer Science, Engineering",88,58.2
+university_31,University of Miami,Florida,"Medicine, Law, Commerce, Arts, Engineering",87,32.1
+university_32,University of South Florida,Florida,"Medicine, Engineering, Computer Science, Commerce, Arts",83,43.8
+university_33,University of Central Florida,Florida,"Engineering, Computer Science, Arts, Commerce, Medicine",81,44.4
+university_34,Florida Atlantic University,Florida,"Engineering, Computer Science, Arts, Commerce",76,66.7
+university_35,University of North Florida,Florida,"Engineering, Commerce, Arts, Computer Science",74,41.5
+university_36,Emory University,Georgia,"Medicine, Law, Commerce, Arts, Engineering",94,18.5
+university_37,Georgia Institute of Technology,Georgia,"Computer Science, Engineering",90,20.1
+university_38,University of Georgia,Georgia,"Arts, Commerce",82,45.1
+university_39,Georgia State University,Georgia,"Commerce, Law",78,80.3
+university_40,Mercer University,Georgia,"Medicine, Law",85,71.2
+university_41,Spelman College,Georgia,"Arts, Science",85,36.6
+university_42,Clark Atlanta University,Georgia,"Science, Commerce, Arts",78,52.3
+university_43,University of Hawaii at Manoa,Hawaii,"Medicine, Science, Engineering, Commerce",70,80.2
+university_44,Brigham Young University,Hawaii,"Commerce, Arts",65,85.5
+university_45,Chaminade University of Honolulu,Hawaii,"Science, Medicine, Law, Computer Science, Engineering, Arts, Commerce",70,75.8
+university_46,Hawaii Pacific University,Hawaii,"Science, Medicine, Law, Computer Science, Engineering, Arts, Commerce",75,87.1
+university_47,University of Hawaii at Hilo,Hawaii,"Science, Computer Science, Engineering, Arts",70,69.2
+university_48,Wayland Baptist University,Hawaii,"Science, Medicine, Law, Computer Science, Engineering, Arts, Commerce",75,50.1
+university_49,Remington College Honolulu,Hawaii,"Science, Computer Science, Engineering, Arts, Commerce",70,83.5
+university_50,University of Alaska Fairbanks,Alaska,"Science, Engineering, Arts",75,70.1
+university_51,University of Alaska Anchorage,Alaska,"Medicine, Engineering, Computer Science",70,80.1
+university_52,Alaska Pacific University,Alaska,"Arts, Science",68,50.1
+university_53,Ilisagvik College,Alaska,"Arts, Science, Engineering",60,85.1
+university_54,Alaska Bible College,Alaska,Arts,65,60.1
+university_55,Charter College-Anchorage,Alaska,"Computer Science, Engineering",50,100
+university_56,University of Alaska Southeast,Alaska,"Science, Arts",70,60.1
+university_57,University of Colorado Boulder,Colorado,"Engineering, Computer Science, Arts",90,84.3
+university_58,University of Denver,Colorado,"Law, Commerce, Arts",88,56.7
+university_59,Colorado State University,Colorado,"Arts, Science, Engineering",85,80.2
+university_60,Colorado School of Mines,Colorado,"Science, Engineering",92,40.9
+university_61,University of Northern Colorado,Colorado,"Education, Commerce, Arts",78,91.5
+university_62,University of Colorado Colorado Springs,Colorado,"Engineering, Commerce, Science",84,90.1
+university_63,Metropolitan State University of Denver,Colorado,"Arts, Science, Commerce",72,69.3
+university_64,University of Pennsylvania,Pennsylvania,"Law, Commerce, Medicine, Engineering",94,7.7
+university_65,Carnegie Mellon University,Pennsylvania,"Computer Science, Engineering, Commerce",92,15.4
+university_66,Pennsylvania State University,Pennsylvania,"Engineering, Commerce, Arts",85,50.4
+university_67,Villanova University,Pennsylvania,"Commerce, Law, Engineering",88,28.5
+university_68,Drexel University,Pennsylvania,"Engineering, Commerce, Medicine",83,76.5
+university_69,Temple University,Pennsylvania,"Law, Commerce, Medicine, Arts",80,58.2
+university_70,Lehigh University,Pennsylvania,"Engineering, Commerce, Arts",88,26.5
+university_71,University of Washington,Washington,"Medicine, Computer Science",92,52
+university_72,Washington State University,Washington,"Arts, Engineering",80,68.3
+university_73,Seattle University,Washington,"Law, Commerce, Arts",83,71.2
+university_74,Gonzaga University,Washington,"Law, Commerce",85,65.7
+university_75,Pacific Lutheran University,Washington,"Medicine, Arts",76,79.5
+university_76,Western Washington University,Washington,"Arts, Science",81,84.9
+university_77,Whitworth University,Washington,"Commerce, Engineering",83,89.7
+university_78,University of Virginia,Virginia,"Law, Medicine, Commerce, Engineering",94,23.8
+university_79,Virginia Tech,Virginia,"Engineering, Computer Science, Arts",88,70.1
+university_80,College of William and Mary,Virginia,"Law, Commerce, Arts",90,34.2
+university_81,George Mason University,Virginia,"Law, Computer Science, Arts",85,70.8
+university_82,University of Richmond,Virginia,"Commerce, Law",89,30.4
+university_83,James Madison University,Virginia,"Arts, Commerce, Science",83,67.5
+university_84,Virginia Commonwealth University,Virginia,"Medicine, Arts",81,63.7
+university_85,Princeton University,New Jersey,"Science, Engineering",95,5.5
+university_86,Rutgers University-New Brunswick,New Jersey,"Science, Computer Science, Engineering, Arts",85,56.3
+university_87,Stevens Institute of Technology,New Jersey,"Science, Engineering, Computer Science",88,43.2
+university_88,Seton Hall University,New Jersey,"Law, Medicine, Arts",78,63.8
+university_89,Montclair State University,New Jersey,Arts,75,72.4
+university_90,Rider University,New Jersey,"Commerce, Arts",73,77.9
+university_91,Ramapo College of New Jersey,New Jersey,"Science, Engineering",80,49.8
+university_92,Arizona State University,Arizona,"Engineering, Commerce, Law, Science, Arts",80,85.2
+university_93,University of Arizona,Arizona,"Medicine, Law, Commerce, Engineering, Arts",82,76.5
+university_94,Northern Arizona University,Arizona,"Arts, Engineering, Commerce",75,78.3
+university_95,Grand Canyon University,Arizona,"Medicine, Commerce, Science",70,64.8
+university_96,Embry-Riddle Aeronautical University,Arizona,"Science, Commerce",80,68.9
+university_97,Prescott College,Arizona,"Science, Law, Arts",70,80.7
+university_98,Arizona Christian University,Arizona,"Arts, Commerce",75,88.1
+university_99,University of Michigan,Michigan,"Medicine, Law, Computer Science, Engineering",88,22.9
+university_100,Michigan State University,Michigan,"Science, Medicine, Engineering, Arts",80,71.3
+university_101,Wayne State University,Michigan,"Medicine, Law, Engineering",70,72.4
+university_102,University of Detroit Mercy,Michigan,"Law, Engineering",70,83.5
+university_103,Kettering University,Michigan,"Engineering, Computer Science",80,70.6
+university_104,Oakland University,Michigan,"Science, Engineering, Arts",75,83.1
+university_105,Western Michigan University,Michigan,"Science, Engineering, Arts",70,82.5
+university_106,Duke University,North Carolina,"Medicine, Law, Computer Science",95,8.9
+university_107,University of North Carolina at Chapel Hill,North Carolina,"Medicine, Law, Computer Science",92,22.6
+university_108,North Carolina State University,North Carolina,"Engineering, Computer Science",85,44.2
+university_109,Wake Forest University,North Carolina,"Medicine, Law, Commerce",90,29.9
+university_110,East Carolina University,North Carolina,"Medicine, Arts, Science",78,82.4
+university_111,Appalachian State University,North Carolina,"Arts, Commerce, Science",72,69.5
+university_112,University of North Carolina at Charlotte,North Carolina,"Engineering, Commerce, Computer Science",82,67.2
+university_113,University of Illinois Urbana-Champaign,Illinois,"Engineering, Computer Science",89,59.4
+university_114,Northwestern University,Illinois,"Law, Medicine, Arts, Commerce, Engineering",92,8.7
+university_115,University of Chicago,Illinois,"Law, Commerce, Medicine,Sceince",95,6.2
+university_116,Illinois Institute of Technology,Illinois,"Engineering, Computer Science, Commerce",85,68.4
+university_117,Loyola University Chicago,Illinois,"Law, Medicine, Science, Commerce, Arts",85,66.2
+university_118,DePaul University,Illinois,"Commerce, Law, Arts, Computer Science",80,69.1
+university_119,University of Illinois at Chicago,Illinois,"Medicine, Science, Engineering, Commerce",83,73.2
+university_120,University of Missouri,Missouri,"Medicine, Law, Commerce",78,78.2
+university_121,Washington University in St. Louis,Missouri,"Medicine, Law, Commerce, Engineering, Arts ",92,14.1
+university_122,University of Missouri-Kansas City,Missouri,"Medicine, Law, Science, Arts",70,62.5
+university_123,Missouri University of Science and Technology,Missouri,"Engineering, Computer Science, Commerce, Science",82,84.3
+university_124,Truman State University,Missouri,"Arts, Commerce, Science",77,70.2
+university_125,Southeast Missouri State University,Missouri,"Arts, Commerce, Science, Computer Science",70,86.4
+university_126,Webster University,Missouri,"Arts, Science, Commerce",73,63.5
+university_127,Vanderbilt University,Tennessee,"Medicine, Law, Engineering, Arts",93,9.1
+university_128,University of Tennessee,Tennessee,"Science, Medicine, Engineering",85,76.2
+university_129,Rhodes College,Tennessee,"Arts, Science",82,46.1
+university_130,Belmont University,Tennessee,"Arts, Law, Business",75,84.5
+university_131,Tennessee State University,Tennessee,"Arts, Science, Law",70,56.3
+university_132,University of Memphis,Tennessee,"Engineering, Medicine, Law, Commerce",78,54.7
+university_133,Fisk University,Tennessee,"Science, Arts",65,82.4
+university_134,Columbia University,New York,"Arts, Medicine, Law, Engineering, Computer Science",96,5.5
+university_135,New York University,New York,"Arts, Medicine, Law, Computer Science, Engineering",93,20.1
+university_136,Cornell University,New York,"Science, Engineering, Arts, Commerce",93,11.1
+university_137,Fordham University,New York,"Law, Commerce, Arts",85,45.6
+university_138,Syracuse University,New York,"Arts, Computer Science, Commerce, Engineering",80,50
+university_139,University at Buffalo,New York,"Medicine, Engineering, Law",83,57.9
+university_140,Rochester Institute of Technology,New York,"Computer Science, Engineering, Arts",85,66
+university_141,University of Minnesota - Twin Cities,Minnesota,"Science, Engineering, Computer Science, Arts",85,44.5
+university_142,Carleton College,Minnesota,"Science, Arts",93,21.3
+university_143,St. Olaf College,Minnesota,"Science, Arts",90,45
+university_144,Macalester College,Minnesota,"Science, Arts",88,28.1
+university_145,University of St. Thomas,Minnesota,"Engineering, Commerce, Law, Arts",83,85.1
+university_146,University of Minnesota - Duluth,Minnesota,"Science, Engineering, Computer Science, Arts",80,62.5
+university_147,University of Minnesota - Morris,Minnesota,"Science, Arts",75,66
+university_148,University of Utah,Utah,"Medicine, Law, Engineering",86,66.5
+university_149,Brigham Young University,Utah,"Computer Science, Engineering, Arts",90,48.3
+university_150,Utah State University,Utah,"Science, Engineering, Arts",80,89.1
+university_151,Westminster College,Utah,"Commerce, Arts",75,94.3
+university_152,Southern Utah University,Utah,"Arts, Science, Commerce",75,77.2
+university_153,Dixie State University,Utah,"Science, Commerce, Arts",70,99.9
+university_154,Weber State University,Utah,"Science, Engineering, Commerce",80,100
+university_155,Auburn University,Alabama,"Engineering, Science, Commerce",84,75.4
+university_156,University of Alabama,Alabama,"Law, Commerce, Medicine, Arts, Engineering",82,59.2
+university_157,University of Alabama at Birmingham,Alabama,"Medicine, Commerce, Engineering",77,60.1
+university_158,University of North Alabama,Alabama,"Commerce, Arts",70,83.2
+university_159,Troy University,Alabama,"Arts, Commerce, Law",67,91.7
+university_160,Alabama State University,Alabama,"Arts, Science, Commerce",65,38.9
+university_161,University of South Alabama,Alabama,"Medicine, Engineering, Science",78,81.7
+university_162,University of Oregon,Oregon,"Arts, Commerce, Law",80,77.3
+university_163,Oregon State University,Oregon,"Arts, Science, Engineering, Commerce",75,81.5
+university_164,Portland State University,Oregon,"Arts, Commerce",70,96.7
+university_165,Reed College,Oregon,"Arts, Science",90,34.2
+university_166,University of Portland,Oregon,"Engineering, Commerce, Science",82,63.8
+university_167,Pacific University,Oregon,"Medicine, Business, Arts",75,80
+university_168,Willamette University,Oregon,"Law, Arts, Science",85,89.6
+university_169,Johns Hopkins University,Maryland,"Medicine, Engineering, Computer Science",93,8.7
+university_170,"University of Maryland, College Park",Maryland,"Engineering, Computer Science, ",87,47.5
+university_171,Loyola University Maryland,Maryland,"Commerce, Computer Science, Arts",83,79
+university_172,Towson University,Maryland,"Medicine, Commerce, Arts",79,77.2
+university_173,University of Baltimore,Maryland,"Law, Commerce, Arts",74,72.9
+university_174,Hood College,Maryland,"Arts, Medicine, Commerce",72,75.4
+university_175,Bowie State University,Maryland,"Arts, Commerce, Computer Science",65,43.3
+university_176,Louisiana State University,Louisiana,"Science, Medicine, Engineering, Arts",80,75.1
+university_177,Tulane University,Louisiana,"Medicine, Law, Engineering, Arts",85,23.8
+university_178,Xavier University of Louisiana,Louisiana,"Medicine, Science",75,58.5
+university_179,University of Louisiana at Lafayette,Louisiana,"Engineering, Computer Science, Arts",70,60.2
+university_180,Louisiana Tech University,Louisiana,"Engineering, Computer Science",65,60.9
+university_181,Southern University and A&M College,Louisiana,"Science, Engineering, Law",60,49.2
+university_182,Loyola University New Orleans,Louisiana,"Law, Arts",80,90.3
+university_183,University of Montana,Montana,"Science, Engineering, Arts",70,94.2
+university_184,Rocky Mountain College,Montana,"Commerce, Science, Arts",65,68.9
+university_185,Montana State University,Montana,"Arts, Engineering, Medicine",75,82.3
+university_186,Carroll College,Montana,Medicine,80,68.1
+university_187,University of Great Falls,Montana,"Law, Arts, Medicine",65,83.7
+university_188,Salish Kootenai College,Montana,"Arts, Medicine",60,85.4
+university_189,Montana Tech,Montana,"Engineering, Computer Science, Science",80,86.3
+university_190,Yale University,Connecticut,"Law, Medicine",95,6.1
+university_191,University of Connecticut,Connecticut,"Science, Engineering, Computer Science, Arts, Commerce",80,49.8
+university_192,Trinity College,Connecticut,"Arts, Science",85,33.9
+university_193,Connecticut College,Connecticut,"Arts, Science",80,38.2
+university_194,Wesleyan University,Connecticut,"Arts, Science",90,17.5
+university_195,Quinnipiac University,Connecticut,"Medicine, Law, Engineering",75,71.6
+university_196,University of Hartford,Connecticut,"Engineering, Arts, Science",70,84.3
+university_197,University of Notre Dame,Indiana,"Science, Engineering, Law, Arts",94,18
+university_198,Purdue University,Indiana,"Science, Engineering, Computer Science, Arts",85,59.8
+university_199,Indiana University Bloomington,Indiana,"Arts, Law, Medicine, Computer Science",80,77.5
+university_200,Ball State University,Indiana,"Arts, Engineering",70,62.3
+university_201,University of Evansville,Indiana,"Commerce, Engineering, Arts, Science",75,69.2
+university_202,Valparaiso University,Indiana,"Law, Commerce, Engineering, Arts",75,81
+university_203,Butler University,Indiana,"Medicine, Commerce, Arts, Computer Science",85,66.4
+university_204,University of Wisconsin-Madison,Wisconsin,"Science, Engineering, Computer Science, Arts",90,51.6
+university_205,Marquette University,Wisconsin,"Law, Medicine, Arts",85,76.1
+university_206,University of Wisconsin-Milwaukee,Wisconsin,"Engineering, Arts, Science",75,71.3
+university_207,Lawrence University,Wisconsin,"Arts, Science",80,62.5
+university_208,Beloit College,Wisconsin,"Arts, Science",70,56.4
+university_209,Carthage College,Wisconsin,"Arts, Science, Engineering",70,70.1
+university_210,Edgewood College,Wisconsin,"Arts, Science, Medicine",75,68.2
+university_211,University of South Carolina,South Carolina,"Law, Medicine, Engineering",85,63.2
+university_212,Clemson University,South Carolina,"Engineering, Computer Science",80,47.5
+university_213,College of Charleston,South Carolina,"Arts, Science",75,74.3
+university_214,Furman University,South Carolina,"Arts, Science",90,60.1
+university_215,Coastal Carolina University,South Carolina,"Arts, Commerce",75,61.5
+university_216,Wofford College,South Carolina,"Arts, Science",85,63.4
+university_217,Presbyterian College,South Carolina,"Medicine, Commerce",70,66.3
+university_218,University of South Dakota,South Dakota,"Medicine, Law, Arts",80,86.9
+university_219,South Dakota State University,South Dakota,"Arts, Engineering, Medicine",75,91.5
+university_220,Dakota State University,South Dakota,"Computer Science, Arts",70,86.7
+university_221,Northern State University,South Dakota,"Arts, Commerce",65,78.2
+university_222,Augustana University,South Dakota,Arts Commerce,80,68.4
+university_223,Black Hills State University,South Dakota,"Arts, Commerce, Science",70,79.2
+university_224,University of Sioux Falls,South Dakota,"Medicine, Arts, Commerce",75,85.1
+university_225,University of Kentucky,Kentucky,"Engineering, Medicine, Law, Arts",70,90.5
+university_226,University of Louisville,Kentucky,"Medicine, Law, Engineering, Arts",75,71.2
+university_227,Western Kentucky University,Kentucky,"Arts, Commerce",65,95
+university_228,Murray State University,Kentucky,"Arts, Commerce",60,85
+university_229,Eastern Kentucky University,Kentucky,"Arts, Law, Science",55,92
+university_230,Bellarmine University,Kentucky,"Medicine, Arts, Commerce",80,80.5
+university_231,Berea College,Kentucky,"Arts, Science",90,34
+university_232,University of New Mexico,New Mexico,"Science, Engineering, Arts",75,60.1
+university_233,New Mexico State University,New Mexico,"Arts, Engineering, Science",70,57.8
+university_234,Eastern New Mexico University,New Mexico,"Commerce, Arts, Computer Science, Science",65,67.4
+university_235,Western New Mexico University,New Mexico,"Arts, Medicine",60,72.6
+university_236,St. John's College,New Mexico,Arts,80,65.3
+university_237,Northern New Mexico College,New Mexico,"Science, Engineering, Arts",55,83.7
+university_238,Institute of American Indian Arts,New Mexico,Arts,50,68.9
+university_239,University of Maine,Maine,"Science, Engineering, Arts",75,78.6
+university_240,Bates College,Maine,"Arts, Science",85,12
+university_241,Bowdoin College,Maine,"Arts, Science",90,8.9
+university_242,Colby College,Maine,"Arts, Science",88,11.5
+university_243,University of Southern Maine,Maine,"Arts, Science, Engineering",70,78
+university_244,Maine Maritime Academy,Maine,"Engineering, Science",75,65.2
+university_245,Unity College,Maine,"Science, Arts",70,83.4
+university_246,University of Vermont,Vermont,"Medicine, Engineering, Computer Science, Arts",80,64.5
+university_247,Middlebury College,Vermont,"Arts, Science",92,17.5
+university_248,Bennington College,Vermont,"Arts, Science",88,54.3
+university_249,Norwich University,Vermont,"Engineering, Computer Science, Commerce",78,72.6
+university_250,Castleton University,Vermont,"Arts, Science",75,92.8
+university_251,Champlain College,Vermont,"Computer Science, Commerce",85,88.3
+university_252,Goddard College,Vermont,Arts,70,56.4
+university_253,University of Oklahoma,Oklahoma,"Engineering, Medicine, Law, Commerce, Arts",85,74.2
+university_254,Oklahoma State University,Oklahoma,"Arts, Engineering, Commerce",80,76.5
+university_255,University of Tulsa,Oklahoma,"Law, Commerce, Engineering",88,36.9
+university_256,Oral Roberts University,Oklahoma,"Arts, Commerce",75,85.6
+university_257,Northeastern State University,Oklahoma,"Arts, Medicine, Commerce",65,96.7
+university_258,Southwestern Oklahoma State University,Oklahoma,"Arts, Medicine, Commerce",65,96.5
+university_259,Cameron University,Oklahoma,"Arts , Commerce",60,94.2
+university_260,University of Mississippi,Mississippi,"Medicine, Law, Engineering",80,88.5
+university_261,Mississippi State University,Mississippi,"Engineering, Arts, Medicine",75,60.9
+university_262,University of Southern Mississippi,Mississippi,"Arts, Medicine, Science",70,99.5
+university_263,Jackson State University,Mississippi,"Medicine, Arts",65,53.7
+university_264,Mississippi College,Mississippi,"Law, Arts, Commerce",78,43.1
+university_265,Alcorn State University,Mississippi,"Arts, Medicine",62,62.3
+university_266,Delta State University,Mississippi,"Arts, Medicine",68,90.1
+university_267,University of Delaware,Delaware,"Engineering, Computer Science, Arts",85,63.2
+university_268,Delaware State University,Delaware,"Science, Arts",70,60.5
+university_269,Wesley College,Delaware,"Arts, Medicine",75,74.8
+university_270,Goldey-Beacom College,Delaware,"Commerce, Science",70,55.6
+university_271,Wilmington University,Delaware,"Commerce, Arts, Law",65,100
+university_272,Delaware College of Art and Design,Delaware,Arts,75,95.5
+university_273,Delaware Law School,Delaware,Law,80,48.6
+university_274,"University of Nevada, Las Vegas",Nevada,"Engineering, Computer Science, Commerce",80,81.5
+university_275,Sierra Nevada University,Nevada,"Science, Commerce, Arts",75,63.4
+university_276,"University of Nevada, Reno",Nevada,"Commerce, Engineering, Science",83,88.2
+university_277,Nevada State College,Nevada,"Medicne, Arts, Commerce",70,58.3
+university_278,Touro University Nevada,Nevada,"Medicine, Arts",85,40.6
+university_279,Roseman University of Health Sciences,Nevada,"Medicine, Science",88,35.2
+university_280,Great Basin College,Nevada,"Medicine, Arts, Science",67,94.5
+university_281,University of Nebraska-Lincoln,Nebraska,"Arts, Commerce, Engineering",85,64.3
+university_282,Creighton University,Nebraska,"Medicine, Law, Commerce",88,71.6
+university_283,University of Nebraska at Omaha,Nebraska,"Commerce, Law, Arts",80,80.4
+university_284,Doane University,Nebraska,"Science, Arts",78,86.9
+university_285,Chadron State College,Nebraska,"Commerce, Law, Arts",70,96.2
+university_286,Hastings College,Nebraska,"Science, Commerce, Arts",75,67.8
+university_287,Wayne State College,Nebraska,"Commerce, Law, Arts",72,91.5
+university_288,Brown University,Rhode Island,"Medicine, Law, Computer Science, Engineering, Arts",94,9.3
+university_289,Providence College,Rhode Island,"Science, Engineering, Arts, Commerce",85,48.7
+university_290,University of Rhode Island,Rhode Island,"Science, Engineering, Arts, Commerce",80,75.2
+university_291,Rhode Island School of Design,Rhode Island,Arts,88,30.1
+university_292,Roger Williams University,Rhode Island,"Law, Engineering, Arts, Commerce",75,84.2
+university_293,Salve Regina University,Rhode Island,"Science, Arts, Commerce",70,71.5
+university_294,Bryant University,Rhode Island,"Commerce, Science, Arts",83,70.9
+university_295,University of Arkansas,Arkansas,"Engineering, Arts, Commerce, Law",85,66.7
+university_296,Arkansas State University,Arkansas,"Medicine, Law, Arts",78,74.5
+university_297,University of Central Arkansas,Arkansas,"Science, Commerce, Arts",75,92.4
+university_298,University of Arkansas at Little Rock,Arkansas,"Commerce, Engineering, Law, Computer Science, Medicine",70,73.1
+university_299,University of Arkansas at Pine Bluff,Arkansas,"Arts, Commerce, Law, Medicine",65,60.3
+university_300,Harding University,Arkansas,"Medicine, Arts, Commerce, Science",85,67.6
+university_301,Ouachita Baptist University,Arkansas,"Commer, Arts, Science",80,61.5
+university_302,University of Idaho,Idaho,"Arts, Engineering, Law, Commerce",80,75.1
+university_303,Boise State University,Idaho,"Computer Science, Commerce, Science, Engineering, Arts",78,81.2
+university_304,Idaho State University,Idaho,"Science, Arts, Commerce, Engineering",75,94.5
+university_305,Northwest Nazarene University,Idaho,"Medicine, Arts, Commerce, Engineering",85,72.9
+university_306,Brigham Young University-Idaho,Idaho,"Commerce, Science, Engineering, Arts",83,97.6
+university_307,College of Idaho,Idaho,"Science, Commerce, Arts, Law",87,96.4
+university_308,Lewis-Clark State College,Idaho,"Medicine, Arts, Commerce",70,100
+university_309,University of Kansas,Kansas,"Medicine, Law, Engineering, Arts, Science",85,93.2
+university_310,Kansas State University,Kansas,"Arts, Engineering, Commerce, Computer Science",80,94.5
+university_311,Wichita State University,Kansas,"Engineering, Commerce, Science, Arts",75,88.9
+university_312,Pittsburg State University,Kansas,"Commerce, Arts, Computer Science",70,80.5
+university_313,Emporia State University,Kansas,"Arts, Commerce, Science",65,83.4
+university_314,Fort Hays State University,Kansas,"Law, Commerce, Medicine",60,89.3
+university_315,Baker University,Kansas,"Science, Arts, Commerce",75,65.2
+university_316,University of New Hampshire,New Hampshire,"Science, Engineering, Arts",78,75.2
+university_317,Dartmouth College,New Hampshire,"Medicine, Engineering, Computer Science",93,7.9
+university_318,Southern New Hampshire University,New Hampshire,"Commerce, Computer Science",65,89.6
+university_319,Plymouth State University,New Hampshire,"Science, Commerce",70,90.2
+university_320,Keene State College,New Hampshire,"Arts, Science",72,87.4
+university_321,Franklin Pierce University,New Hampshire,"Commerce, Science",65,76.3
+university_322,Rivier University,New Hampshire,"Medicine, Law, commerce ",68,77.8
+university_323,West Virginia University,West Virginia,"Engineering, Medicine, Law, Computer Science",75,74.2
+university_324,Marshall University,West Virginia,"Science, Engineering, Arts",70,89.4
+university_325,Shepherd University,West Virginia,"Science, Arts",65,81.3
+university_326,Concord University,West Virginia,"Science, Arts",60,71.5
+university_327,Fairmont State University,West Virginia,"Science, Engineering, Arts,",55,68.9
+university_328,Wheeling University,West Virginia,"Science, Arts",65,65.7
+university_329,West Liberty University,West Virginia,"Science, Arts",50,91.2
+university_330,University of North Dakota,North Dakota,"Medicine, Law, Engineering, Arts",80,83.5
+university_331,North Dakota State University,North Dakota,"Science, Engineering",75,92
+university_332,Minot State University,North Dakota,"Commerce, Arts",70,68.3
+university_333,Dickinson State University,North Dakota,"Commerce, Arts",65,58
+university_334,Mayville State University,North Dakota,"Commerce, Arts",60,57.2
+university_335,Valley City State University,North Dakota,"Commerce, Arts",55,55.5
+university_336,University of Mary,North Dakota,"Medicine, Science, Education, Business",85,86.1
+university_337,University of Iowa,Iowa,"Medicine, Law, Engineering, Arts",85,82.2
+university_338,Iowa State University,Iowa,"Science, Engineering",80,91.5
+university_339,University of Northern Iowa,Iowa,"Commerce, Arts",70,78
+university_340,Drake University,Iowa,"Law, Commerce, Arts",75,68.5
+university_341,Grinnell College,Iowa,"Science, Arts",95,18.2
+university_342,Coe College,Iowa,"Science, Arts, Commerce",80,66.7
+university_343,Simpson College,Iowa,"Science, Commerce, Arts",75,82.3
+university_344,University of Wyoming,Wyoming,"Science, Engineering",75,96.4
+university_345,Wyoming Catholic College,Wyoming,Arts,85,98.1
+university_346,Western Wyoming Community College,Wyoming,"Medicine, Science, Arts",60,80.5
+university_347,Laramie County Community College,Wyoming,"Medicine, Science, Arts",65,84.2
+university_348,Central Wyoming College,Wyoming,"Science, Arts",55,77.9
+university_349,Northwest College,Wyoming,"Commerce, Arts",65,82.6
+university_350,Eastern Wyoming College,Wyoming,"Arts, Science",50,89.3
+university_351,University of Alberta,Alberta,"Science, Engineering, Medicine",80,40.1
+university_352,University of Calgary,Alberta,"Computer Science, Engineering, Commerce, Law",85,31.9
+university_353,Mount Royal University,Alberta,"Arts, Commerce",75,70.2
+university_354,MacEwan University,Alberta,"Arts, Commerce",70,80.3
+university_355,Athabasca University,Alberta,"Science, Arts, Commerce",65,89.2
+university_356,Concordia University of Edmonton,Alberta,"Arts, Science",70,75.5
+university_357,University of British Columbia,British Columbia,"Medicine, Science, Computer Science, Arts",85,25.7
+university_358,Simon Fraser University,British Columbia,"Science, Computer Science, Arts",82,63.1
+university_359,University of Victoria,British Columbia,"Science, Engineering, Arts",80,63.8
+university_360,Thompson Rivers University,British Columbia,"Science, Commerce, Law",65,98.3
+university_361,University of Northern British Columbia,British Columbia,"Science, Engineering, Arts",70,90.2
+university_362,Capilano University,British Columbia,"Arts, Commerce",65,91.5
+university_363,Kwantlen Polytechnic University,British Columbia,"Science, Arts, Engineering, Law",68,80.4
+university_364,University of Manitoba,Manitoba,"Science, Engineering, Medicine, Law, Arts",80,50.1
+university_365,University of Winnipeg,Manitoba,"Science, Arts",75,70.5
+university_366,Brandon University,Manitoba,"Arts, Science",70,65.2
+university_367,Université de Saint-Boniface,Manitoba,Arts,65,80.3
+university_368,Canadian Mennonite University,Manitoba,"Arts, Science",65,75.9
+university_369,Red River College,Manitoba,"Engineering, Commerce, Computer Science",70,55.4
+university_370,Assiniboine Community College,Manitoba,"Science, Commerce",65,80.1
+university_371,University of New Brunswick,New Brunswick,"Science, Engineering, Computer Science, Commerce",75,73.5
+university_372,Mount Allison University,New Brunswick,"Arts, Science",80,67.2
+university_373,St. Thomas University,New Brunswick,Arts,70,80.1
+university_374,Atlantic Baptist University,New Brunswick,Arts,60,90.4
+university_375,Crandall University,New Brunswick,"Commerce, Arts",65,81.2
+university_376,Université de Moncton,New Brunswick,"Arts, Commerce, Science",73,67.8
+university_377,St. Stephen's University,New Brunswick,Arts,70,85.6
+university_378,Memorial University of Newfoundland,Newfoundland and Labrador,"Science, Engineering, Arts, Medicine, Commerce",75,66.2
+university_379,College of the North Atlantic,Newfoundland and Labrador,"Science, Engineering, Commerce",65,85.3
+university_380,Academy Canada,Newfoundland and Labrador,Commerce,60,75.8
+university_381,Eastern Academy,Newfoundland and Labrador,Commerce,50,95.1
+university_382,Keyin College,Newfoundland and Labrador,Commerce,55,83.6
+university_383,Dalhousie University,Nova Scotia,"Medicine, Law, Engineering, Science",85,40
+university_384,Saint Mary's University,Nova Scotia,"Commerce, Arts",80,50.2
+university_385,Acadia University,Nova Scotia,"Science, Arts, Commerce",75,60.7
+university_386,Mount Saint Vincent University,Nova Scotia,Arts,70,70.8
+university_387,Saint Francis Xavier University,Nova Scotia,"Science, Arts, Commerce",80,50.2
+university_388,Cape Breton University,Nova Scotia,"Science, Arts, Commerce",70,75.1
+university_389,University of King's College,Nova Scotia,Arts,75,55.2
+university_390,University of Toronto,Ontario,"Medicine, Science, Computer Science, Engineering, Commerce, Arts",93,30.3
+university_391,University of Waterloo,Ontario,"Computer Science, Engineering, Science",90,25.7
+university_392,Western University,Ontario,"Science, Medicine, Law, Engineering",85,31.1
+university_393,Queen's University,Ontario,"Medicine, Law, Engineering, Science, Arts, Commerce",86,42.9
+university_394,McMaster University,Ontario,"Medicine, Engineering, Science, Commerce",82,57.2
+university_395,University of Ottawa,Ontario,"Law, Medicine, Science, Computer Science, Engineering, Arts",80,42.7
+university_396,York University,Ontario,"Commerce, Law, Engineering, Science, Arts",78,27.3
+university_397,University of Guelph,Ontario,"Science, Engineering, Commerce",75,60.8
+university_398,Ryerson University,Ontario,"Commerce, Computer Science, Engineering, Arts",64,80.1
+university_399,Carleton University,Ontario,"Computer Science, Engineering, Arts",75,72.4
+university_400,Trent University,Ontario,"Arts, Science",60,87.5
+university_401,Algoma University,Ontario,"Arts, Science",65,92.3
+university_402,Nipissing University,Ontario,"Arts, Science",65,89.2
+university_403,University of Windsor,Ontario,"Law, Commerce, Engineering",65,78.9
+university_404,University of Guelph,Ontario,"Science, Medicine, Engineering",75,67.8
+university_405,McGill University,Quebec,"Science, Medicine, Arts, Engineering, Computer Science",90,35.2
+university_406,Université de Montréal,Quebec,"Medicine, Law",83,41.5
+university_407,Concordia University,Quebec,"Commerce, Engineering, Arts",80,67.3
+university_408,Université Laval,Quebec,"Medicine, Engineering",75,68.1
+university_409,Université de Sherbrooke,Quebec,"Medicine, Engineering, Law",75,54.7
+university_410,École de technologie supérieure (ÉTS),Quebec,Engineering,70,67.9
+university_411,HEC Montréal,Quebec,Commerce,75,60.2
+university_412,Université du Québec à Montréal (UQAM),Quebec,"Arts, Commerce",70,70.5
+university_413,Université de Québec à Trois-Rivières,Quebec,"Medicine, Engineering, Arts",65,83.7
+university_414,Université de Québec en Abitibi-Témiscamingue,Quebec,"Arts, Science, Engineering",65,80.6
+university_415,University of Saskatchewan,Saskatchewan,"Science, Engineering, Medicine",75,55.1
+university_416,University of Regina,Saskatchewan,"Commerce, Arts",70,75.3
+university_417,Saskatchewan Polytechnic,Saskatchewan,"Engineering, Commerce",65,82.7
+university_418,First Nations University of Canada,Saskatchewan,Arts,60,80.5
+university_419,University of Prince Edward Island,Prince Edward Island,"Arts, Science",70,80.5
