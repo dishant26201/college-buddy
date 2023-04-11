@@ -11,7 +11,7 @@
 
 ## Built With
 
-* [React.js] (https://react.dev)
+* [React.js](https://react.dev)
 * [Node.js](https://nodejs.org/en/docs)
 * [AWS](https://aws.amazon.com)
 
