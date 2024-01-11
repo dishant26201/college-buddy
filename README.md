@@ -19,7 +19,7 @@
 * [Node.js](https://nodejs.org/en/docs)
 * [AWS](https://aws.amazon.com)
 
-## REFERENCES
+## References
 
 * [1]“Build an Authentication/Login System on AWS with React.js and a Serverless API - Part 1 (backend),” www.
         youtube.com. https://www.youtube.com/watch?v=mgkgQtMplPY&t=2117s (accessed Apr. 11, 2023).
