@@ -11,7 +11,7 @@
 
 ## Authors
 
-* [Dishant Behera](ds418021@dal.ca)
+* [Dishant Behera](dishantvb@gmail.com)
 
 ## Built With
 
