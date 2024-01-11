@@ -1,9 +1,0 @@
-{
-    "name": "auth-system-backend",
-    "author": "Dishantbehera",
-    "version": "1.0.0",
-    "type": "module",
-    "dependencies": {
-        "@aws-sdk/client-sqs": "^3.303.0"
-    }
-}
