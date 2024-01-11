@@ -9,7 +9,7 @@
 
 * A cloud-based web application leveraging AWS services and an AI-powered recommendation system to provide personalized college recommendations for high school students looking to pursue undergraduate studies in the USA and Canada.
   
-* Link to demo video of the app [here](https://drive.google.com/file/d/1Evw7xGmq1qdf-UIMHeu6IQBtQseo0a6m/view)
+* Link to demo video of the app [here](https://drive.google.com/file/d/1Evw7xGmq1qdf-UIMHeu6IQBtQseo0a6m/view).
 
 ## Authors
 
