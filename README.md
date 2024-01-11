@@ -1,9 +1,13 @@
 <!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Gabriella Mosquera for academic use ---> 
 
-# CSCI 4145 TERM ASSIGNMENT
+# College Buddy
 
 * *Date Created*: March 26, 2023
 * *Last Modification Date*: April 11, 2023
+
+## Description
+
+* A cloud-based web application leveraging AWS services and an AI-powered recommendation system to provide personalized college recommendations for high school students looking to pursue undergraduate studies in the USA and Canada.
 
 ## Authors
 
