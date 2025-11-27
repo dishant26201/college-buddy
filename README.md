@@ -7,7 +7,7 @@
 
 ## Description
 
-* A cloud-based web application leveraging AWS services and an AI-powered recommendation system to provide personalized college recommendations for high school students looking to pursue undergraduate studies in the USA and Canada.
+* A cloud-based web application built using AWS Personalize, an ML-based recommendation system, and other AWS services to provide personalized college recommendations for high school students.
   
 * Link to demo video of the app [here](https://drive.google.com/file/d/1Evw7xGmq1qdf-UIMHeu6IQBtQseo0a6m/view).
 
